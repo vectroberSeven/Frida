@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plataforma Jurídica | DerechoHub</title>
+    <link rel="stylesheet" href="fridacss.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header>
+        <nav>
+            <span>Licenciatura<span style="color: var(--azul);">Derecho</span></span>
+            </div>
+            <div class="menu">
+                <a href="#universidades">Universidades</a>
+                <a href="#especialidades">Especialidades</a>
+                <a href="#testimonios">Testimonios</a>
+                <a href="https://accounts.google.com/v3/signin/identifier?authuser=0&continue=https%3A%2F%2Fmail.google.com%2Fmail&ec=GAlAFw&hl=es-419&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession&dsh=S440069583%3A1747367830577864"
+                    class="btn btn-secondary">Iniciar Sesión</a>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Transforma tu futuro en el mundo jurídico</h1>
+        <p>La plataforma colaborativa para estudiantes y profesionales del derecho. Accede a recursos, comunidades y
+            oportunidades únicas.</p>
+
+        <div class="input-group">
+            <input type="email" placeholder="Ingresa tu correo electrónico">
+            <button class="btn">Registrarse gratis</button>
+        </div>
+
+        <div>
+            <button class="btn btn-secondary">Explorar programas</button>
+            <button class="btn btn-verde" style="margin-left: 10px;">Ver video tour</button>
+        </div>
+    </section>
+
+    <!-- Stats -->
+    <div class="stats">
+        <div class="stat">
+            <h3>50+</h3>
+            <p>Universidades asociadas</p>
+        </div>
+        <div class="stat">
+            <h3>10K</h3>
+            <p>Estudiantes activos</p>
+        </div>
+        <div class="stat">
+            <h3>300+</h3>
+            <p>Recursos legales</p>
+        </div>
+        <div class="stat">
+            <h3>24/7</h3>
+            <p>Soporte especializado</p>
+        </div>
+    </div>
+
+    <!-- Universidades -->
+    <h2 class="section-title" id="universidades">Universidades destacadas</h2>
+    <div class="features">
+        <div class="feature-card">
+            <img src="Unam.jpeg" alt="UNAM">
+            <h3>UNAM - México</h3>
+            <p> en Derecho Constitucional, Penal y Corporativo. Clasificada entre las top 100 universidades en leyes a
+                nivel mundial Su enfoque integral combina teoría jurídica clásica con
+                aplicación práctica en casos emblemáticos del sistema legal mexicano.</p>
+            <a href="https://www.derecho.unam.mx/"><button class="btn btn-secondary"
+                    style="width: 100%; margin-top: 15px;">Ver programa </button> </a>
+        </div>
+
+        <div class="feature-card">
+            <img src="UV.jpeg" alt="Universidad de Buenos Aires">
+            <h3>UV - México</h3>
+            <p>Especializaciones en Derecho Internacional y Derechos Humanos. Programa con enfoque en litigación
+                estratégica que integra metodologías innovadoras con atención a comunidades vulnerables.
+
+            </p>
+            <a href="https://www.uv.mx/derecho/"><button class="btn btn-secondary"
+                    style="width: 100%; margin-top: 15px;">Ver programa </button> </a>
+        </div>
+
+        <div class="feature-card">
+            <img src="Tec.jpeg" alt="Universidad de Salamanca">
+            <h3>Tecnologíco de Monterrey - México</h3>
+            <p>Maestrías en Derecho Europeo y Propiedad Intelectual.
+                Programas con intercambios en cortes internacionales y alianzas exclusivas con firmas corporativas
+                globales.</p>
+            <a
+                href="https://tec.mx/es/derecho-economia-y-relaciones-internacionales/licenciatura-en-derecho?srsltid=AfmBOorWONnW1WipQkdorb063jBhbxcJOr1MhsrDLQVcLJ257YFZkgHX"><button
+                    class="btn btn-secondary" style="width: 100%; margin-top: 15px;">Ver programa </button> </a>
+
+        </div>
+    </div>
+
+    <!-- Especialidades -->
+    <h2 class="section-title" id="especialidades">Especialidades en Derecho</h2>
+    <div class="features">
+        <div class="feature-card">
+            <img src="Derechopenal.jpeg" Derecho Penal">
+            <h3>Derecho Penal</h3>
+            <p>Enfócate en litigación, defensa técnica y sistema acusatorio. Domina técnicas de argumentación jurídica.
+            </p>
+        </div>
+
+        <div class="feature-card">
+            <img src="DerechoCorporativo.jpeg" alt="Derecho Corporativo">
+            <h3>Derecho Corporativo</h3>
+            <p>Aprende sobre fusiones, adquisiciones, compliance y gobierno corporativo. Ideal para el sector
+                empresarial.</p>
+        </div>
+
+        <div class="feature-card">
+            <img src="DerechoInternacional.jpeg" alt="Derecho Internacional">
+            <h3>Derecho Internacional</h3>
+            <p>Especialízate en tratados, relaciones diplomáticas y organismos multilaterales como la ONU u OEA.</p>
+        </div>
+    </div>
+
+    <!-- Testimonios -->
+    <h2 class="section-title" id="testimonios">Testimonios</h2>
+    <div class="testimonios">
+        <div class="testimonio">
+            <img src="Maria.jpg" alt="María González">
+            <p>"DerechoHub me conectó con mentores que me guiaron para entrar a la Corte Internacional. ¡Invaluable!"
+            </p>
+            <p><strong>María González</strong><br>Abogada Internacional</p>
+        </div>
+
+        <div class="testimonio">
+            <img src="carlos.jpg" alt="Carlos Mendoza">
+            <p>"Los recursos de litigación oral cambiaron mi práctica profesional. Ahora gano el 80% de mis casos."</p>
+            <p><strong>Carlos Mendoza</strong><br>Penalista</p>
+        </div>
+
+        <div class="testimonio">
+            <img src="ana.jpg" alt="Ana Torres">
+            <p>"Encontré mi programa de maestría ideal gracias a los filtros especializados de la plataforma."</p>
+            <p><strong>Ana Torres</strong><br>Estudiante</p>
+        </div>
+
+        <div class="testimonio">
+            <img src="javier.jpg" alt="Javier Ruiz">
+            <p>"La comunidad de derecho corporativo me ayudó a escalar mi firma de abogados a nuevos mercados."</p>
+            <p><strong>Javier Ruiz</strong><br>Socio en firma legal</p>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer id="contacto">
+        <div class="footer-links">
+            <a href="#">Términos</a>
+            <a href="#">Privacidad</a>
+            <a href="#">FAQ</a>
+            <a href="#">Contacto</a>
+            <a href="#">Blog</a>
+        </div>
+        <p>© 2025 LicenciaturaDerechoFridaCarmona. Teléfono: 274-114-3233 | contacto@derecho.edu</p>
+        <p>Tierra Blanca, Veracruz - México</p>
+    </footer>
+</body>
+
+</html>
